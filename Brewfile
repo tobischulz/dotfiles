@@ -18,7 +18,6 @@ brew 'hub'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
-brew 'stripe/stripe-cli/stripe'
 brew 'svn'
 brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
@@ -48,8 +47,6 @@ brew 'yarn'
 # Apps
 cask '1password'
 cask '1password-cli'
-cask 'aerial'
-cask 'alfred'
 cask 'caffeine'
 cask 'dbngin'
 cask 'discord'
@@ -62,20 +59,11 @@ cask 'google-chrome'
 cask 'gpg-suite'
 cask 'imageoptim'
 cask 'insomnia'
-cask 'phpstorm'
 cask 'ray'
-cask 'screenflow'
-cask 'signal'
-cask 'skype'
 cask 'slack'
-cask 'steam'
-cask 'sublime-text'
 cask 'tableplus'
-cask 'telegram-desktop'
 cask 'the-unarchiver'
-cask 'there'
 cask 'tinkerwell'
-cask 'transmission'
 cask 'transmit'
 cask 'visual-studio-code'
 cask 'vlc'
@@ -95,11 +83,6 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Mac App Store
-mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
-mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
-mas 'Things', id: 904280696
-mas 'Tweetbot', id: 1384080005
