@@ -38,7 +38,7 @@ mkdir $HOME/Herd
 # mkdir $HOME/Code/laravel
 
 # Clone Github repositories
-./clone.sh
+# ./clone.sh
 
 # Symlink the Mackup config file to the home directory
 ln -s ./.mackup.cfg $HOME/.mackup.cfg
